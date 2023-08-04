@@ -1,0 +1,31 @@
+{
+  "name": "npm-practices",
+  "version": "1.0.0",
+  "description": "Curso de NPM: Gestión de paquetes y dependencias en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chnicolasdev/npm-practices.git"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "node"
+  ],
+  "author": "Christian Ojeda <christian.cnod@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chnicolasdev/npm-practices/issues"
+  },
+  "homepage": "https://github.com/chnicolasdev/npm-practices#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
